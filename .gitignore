@@ -1,0 +1,16 @@
+# Models
+*.pkl
+*.joblib
+
+# Large processed datasets
+Processed_data.csv
+Modelling_data.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python virtual environment
+venv/
+
+# macOS
+.DS_Store
